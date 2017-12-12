@@ -1,3 +1,6 @@
+This is Meteor Mogul's fork of vue+meteor's fork of Vue.  It contains necessary changes for full Tracker compatibility, providing
+first-class integration of Vue in Meteor.
+
 <p align="center"><a href="https://vuejs.org" target="_blank"><img width="100" src="https://vuejs.org/images/logo.png"></a></p>
 
 <p align="center">
