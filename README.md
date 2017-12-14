@@ -1,3 +1,5 @@
+Note: This fork currently mothballed. I'm working instead on a simpler approach: just wrap vue.js as a meteor package.
+
 <p align="center"><a href="https://vuejs.org" target="_blank"><img width="100"src="https://vuejs.org/images/logo.png"></a></p>
 
 <p align="center">
